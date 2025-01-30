@@ -4,3 +4,5 @@ teht2/build/
 teht2/*.user
 Teht3/build/
 Teht3/*.user
+Teht4/build/
+Teht4/*.user
