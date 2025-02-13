@@ -1,17 +1,5 @@
-teht1/build/
-teht1/*.user
+teht*/build/
+Teht*/build/
 
-teht2/build/
-teht2/*.user
-
-Teht3/build/
-Teht3/*.user
-
-Teht4/build/
-Teht4/*.user
-
-Teht5/build/
-Teht5/*.user
-
-Teht6/build/
-Teht6/*.user
+teht*/*.user
+Teht*/*.user
